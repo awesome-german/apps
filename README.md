@@ -4,6 +4,15 @@
 
 [English](#contents) | [日本語](#日本語版) | [Deutsch](#deutsche-version)
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**text-to-speech**](https://github.com/didvc/text-to-speech) — 🎤 VoiceFlow - Modern text-to-speech web application with real-time word highlighting, customizable voice settings, and content management. Built…
+- [**ytnote**](https://github.com/didvc/ytnote) — A note taking app for YouTube and many more. Fully works on Chrome, Firefox, Safari. Built on React.js.
+- [**note-cli**](https://github.com/didvc/note-cli) — Markdown Indexing and Pcre Regular Expression Compatible Full Text Searching for Advanced Note Takers.
+<!-- END gh-mutual-linking -->
+
 ## Contents
 
 - [Vocabulary Apps](#vocabulary-apps)
