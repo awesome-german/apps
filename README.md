@@ -43,6 +43,7 @@
 - [Babbel](https://www.babbel.com/) - Conversation-focused German courses.
 - [Busuu](https://www.busuu.com/) - Learn German with grammar lessons and vocabulary practice.
 - [Lingoda](https://www.lingoda.com/) - Live online German classes with certified teachers.
+- [Speeku](https://www.speeku.com/) - Gamified, bite-sized lessons for Swiss German (Schwizerdütsch) rather than standard German, with every word and sentence recorded and a full dictionary behind each word; paid (one-time purchase), works fully offline.
 
 ## Reading & Listening Apps
 
