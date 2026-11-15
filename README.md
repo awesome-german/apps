@@ -48,6 +48,7 @@
 
 - [LingQ](https://www.lingq.com/) - Learn German through reading and listening to content.
 - [Beelinguapp](https://www.beelinguapp.com/) - Read bilingual texts side-by-side.
+- [ReadLingua](https://readlingua.com/) - Read graded German books (A1 to C1) and any website on iPhone, iPad and Mac and tap a word to see its translation above it. Freemium: free daily translations, paid Premium. Available on the [App Store](https://apps.apple.com/app/id6755721145).
 - [News in Slow German](https://www.newsinslowgerman.com/) - German news at slower speeds for learners.
 
 ## Flashcard Apps
